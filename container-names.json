@@ -1,3 +1,5 @@
 {
-  "framework": "Test"
+  "framework-app": "Container 1",
+  "framework-app-1": "Container 2",
+  "framework-app-2": "Container 3"
 }
